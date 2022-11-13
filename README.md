@@ -15,4 +15,5 @@
 
 ### Multi class image classification :
 
-  - [Fashion MNIST](ImageClassification/MultiClass/FashionMNIST.py) - Recognize different items of clothing, trained from a dataset containing 10 different types
+- [Rock Paper Scissors](https://github.com/resh22an/computer-vision/blob/43995b695cf161e15e6f6e53157c22a01cfe3319/multiclass-image-classification/RockPaperScissors.ipynb) - Recognize if the hand sign image is of rock or paper or scissor
+- [Fashion MNIST](https://github.com/resh22an/computer-vision/blob/43995b695cf161e15e6f6e53157c22a01cfe3319/multiclass-image-classification/FashionMNIST.ipynb) - Recognize different items of clothing, trained from a dataset containing 10 different types
