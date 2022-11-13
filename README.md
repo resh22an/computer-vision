@@ -1,7 +1,7 @@
 
 ## Image Classification
 
-- This repo contains preparation material for **TensorFlow Developer Certification** (Content as in Coursera's [DeepLearning.AI TensorFlow Developer](https://coursera.org/professional-certificates/tensorflow-in-practice) course)
+- This repo contains preparation material for [TensorFlow Developer Certification](https://www.tensorflow.org/certificate) (Content as in Coursera's [DeepLearning.AI TensorFlow Developer](https://coursera.org/professional-certificates/tensorflow-in-practice) course)
 - ```tf.keras.utils.image_dataset_from_directory```is used instead of the deprecated ```preprocessing.image.ImageDataGenerator``` in the below projects
 - Tensorboard is used to visualize model's loss and accuracy metrics during hyperparameter tuning
 - Image corruption is checked in DogsVsCats, RockPaperScissors datasets using JPEG's JFIF header check and libraries (```PIL.Image```, ```cv2```, ```wand```)
