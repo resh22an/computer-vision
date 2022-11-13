@@ -9,6 +9,7 @@
 ### Binary image classification :
 
 - [Dogs or Cats](https://github.com/resh22an/computer-vision/blob/add42633516764693e8bbe8eea0ba1a912bd0929/binary-image-classification/DogsVsCats.ipynb) - Classify images as Cats or Dogs
+- [Transfer Learning - Dogs or Cats](https://github.com/resh22an/computer-vision/blob/3fd3d2ed617dc09b044e26c82a1be98e5faa7ad2/binary-image-classification/DogsCats_TransferLearning.ipynb) - Using InceptionV3
 - [Horses or Humans](https://github.com/resh22an/computer-vision/blob/add42633516764693e8bbe8eea0ba1a912bd0929/binary-image-classification/HorsesHumans.ipynb) - Classify images as Horses or Humans
 - [Happy or Sad](https://github.com/resh22an/computer-vision/blob/add42633516764693e8bbe8eea0ba1a912bd0929/binary-image-classification/HappySad.ipynb) - Classify the emoji-like faces as Happy or Sad
     
