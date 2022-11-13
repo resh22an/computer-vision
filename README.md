@@ -1,7 +1,7 @@
 
 ## Image Classification
 
-- This repo contains preparation material for TensorFlow Developer Certification
+- This repo contains preparation material for **TensorFlow Developer Certification**
 - ```tf.keras.utils.image_dataset_from_directory```is used instead of the deprecated ```preprocessing.image.ImageDataGenerator``` in the below examples
 - Tensorboard is used to visualize model's loss and accuracy metrics during hyperparameter tuning
 - Image corruption is checked in DogsVsCats dataset using JPEG's JFIF header check and libraries (```PIL.Image```, ```cv2```, ```wand```)
@@ -15,5 +15,5 @@
 
 ### Multi class image classification :
 
-- [Rock Paper Scissors](https://github.com/resh22an/computer-vision/blob/43995b695cf161e15e6f6e53157c22a01cfe3319/multiclass-image-classification/RockPaperScissors.ipynb) - Recognize if the hand sign image is of rock or paper or scissor
+- [Rock Paper Scissors](https://github.com/resh22an/computer-vision/blob/43995b695cf161e15e6f6e53157c22a01cfe3319/multiclass-image-classification/RockPaperScissors.ipynb) - Recognize if the hand image is in rock or paper or scissors pose
 - [Fashion MNIST](https://github.com/resh22an/computer-vision/blob/43995b695cf161e15e6f6e53157c22a01cfe3319/multiclass-image-classification/FashionMNIST.ipynb) - Recognize different items of clothing, trained from a dataset containing 10 different types
