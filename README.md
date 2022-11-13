@@ -16,4 +16,5 @@
 ### Multi class image classification :
 
 - [Rock Paper Scissors](https://github.com/resh22an/computer-vision/blob/43995b695cf161e15e6f6e53157c22a01cfe3319/multiclass-image-classification/RockPaperScissors.ipynb) - Recognize if the hand image is in rock or paper or scissors pose
+- [Sign language MNIST](https://github.com/resh22an/computer-vision/blob/1114e369647df6bb34cc03d8fab759b3a46f85d4/multiclass-image-classification/SignLanguageMNIST.ipynb) - Classify each image as the letter it represents
 - [Fashion MNIST](https://github.com/resh22an/computer-vision/blob/43995b695cf161e15e6f6e53157c22a01cfe3319/multiclass-image-classification/FashionMNIST.ipynb) - Recognize different items of clothing, trained from a dataset containing 10 different types
